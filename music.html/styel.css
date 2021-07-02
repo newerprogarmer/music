@@ -1,0 +1,64 @@
+p
+{
+
+  color:rgb(255, 0, 0);
+
+  font-size:10px;
+  font-family:Ink Free;
+  } 
+  h1
+  {
+    color:black;
+    font-size:45px;
+    background: yellow;
+
+
+  }
+body
+{
+   background-image:url("music1.jpg");
+
+background-size: cover;
+  background-size: full;
+
+}
+h2{
+  color:HEX #ffffff;
+
+}
+button{
+  background: #f7ff12;
+ background-image: -webkit-linear-gradient(top, #f7ff12, #030303);
+ background-image: -moz-linear-gradient(top, #f7ff12, #030303);
+ background-image: -ms-linear-gradient(top, #f7ff12, #030303);
+ background-image: -o-linear-gradient(top, #f7ff12, #030303);
+ background-image: linear-gradient(to bottom, #f7ff12, #030303);
+ -webkit-border-radius: 23;
+ -moz-border-radius: 23;
+ border-radius: 23px;
+ text-shadow: 3px 5px 0px #0f0f0e;
+ font-family: Georgia;
+ font-size: 40px;
+ font-color:red;
+ color: #e01616;
+ font-size: 30px;
+ padding: 12px 17px 10px 20px;
+ text-decoration: none;
+}
+
+
+button:hover {
+  background: #ff0f0f;
+ background-image: -webkit-linear-gradient(top, #ff0f0f, #08f748);
+ background-image: -moz-linear-gradient(top, #ff0f0f, #08f748);
+ background-image: -ms-linear-gradient(top, #ff0f0f, #08f748);
+ background-image: -o-linear-gradient(top, #ff0f0f, #08f748);
+ background-image: linear-gradient(to bottom, #ff0f0f, #08f748);
+ text-decoration: none;
+}
+
+h3{
+  font-family: Georgia;
+  font-size: 40px;
+  color:yellow;
+}
